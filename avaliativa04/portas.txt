@@ -1,0 +1,13 @@
+Porta 20: FTP - Transferência de dados
+Porta 21: FTP - Controle
+Porta 22: SSH - Acesso remoto seguro
+Porta 23: Telnet - Acesso remoto não seguro
+Porta 25: SMTP - Envio de e-mails
+Porta 1433: Microsoft SQL Server - Banco de dados Microsoft
+Porta 3306: MySQL - Banco de dados MySQL
+Porta 5432: PostgreSQL - Banco de dados PostgreSQL
+Porta 5900: VNC - Acesso remoto a desktops
+Porta 8080: HTTP alternativo - Alternativa para o HTTP padrão (porta 80)
+Porta 49152: Utilizada para comunicação interna de alguns softwares
+Porta 49153: Utilizada para a atribuição dinâmica por algumas aplicações
+Porta 65535: Última porta disponível no range de portas
